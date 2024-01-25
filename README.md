@@ -1,0 +1,1 @@
+The application is specifically crafted to operate seamlessly with Excel spreadsheets. Kindly utilize the dataset that has been provided, execute the program, and subsequently, the tool will be automatically integrated into the Excel interface, thereby enabling its utilization within any Excel file.
